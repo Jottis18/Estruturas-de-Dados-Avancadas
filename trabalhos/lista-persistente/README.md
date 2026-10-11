@@ -2,7 +2,7 @@
 
 ## Equipe
 
-<!-- Preencher: Nome (matrícula), Nome (matrícula), Nome (matrícula) -->
+Paulo Guilherme de Almeida Silva (matrícula 553137)
 
 ## Descrição
 
